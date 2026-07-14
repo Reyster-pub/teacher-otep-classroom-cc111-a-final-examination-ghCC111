@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Gorilla Face -->
+  <circle cx="50" cy="50" r="45" fill="#8B4513"/>
+  <!-- Inner Face -->
+  <circle cx="50" cy="55" r="35" fill="#A0522D"/>
+  <!-- Left Eye -->
+  <ellipse cx="38" cy="45" rx="8" ry="10" fill="white"/>
+  <circle cx="38" cy="45" r="5" fill="#333"/>
+  <circle cx="40" cy="43" r="2" fill="white"/>
+  <!-- Right Eye -->
+  <ellipse cx="62" cy="45" rx="8" ry="10" fill="white"/>
+  <circle cx="62" cy="45" r="5" fill="#333"/>
+  <circle cx="64" cy="43" r="2" fill="white"/>
+  <!-- Nose -->
+  <ellipse cx="50" cy="58" rx="10" ry="8" fill="#5D4037"/>
+  <!-- Nostrils -->
+  <circle cx="45" cy="58" r="3" fill="#3E2723"/>
+  <circle cx="55" cy="58" r="3" fill="#3E2723"/>
+  <!-- Mouth -->
+  <path d="M 40 70 Q 50 78 60 70" stroke="#3E2723" stroke-width="3" fill="none"/>
+  <!-- Left Ear -->
+  <circle cx="15" cy="50" r="12" fill="#8B4513"/>
+  <circle cx="15" cy="50" r="8" fill="#A0522D"/>
+  <!-- Right Ear -->
+  <circle cx="85" cy="50" r="12" fill="#8B4513"/>
+  <circle cx="85" cy="50" r="8" fill="#A0522D"/>
+  <!-- Brow Ridge -->
+  <path d="M 25 35 Q 50 25 75 35" stroke="#5D4037" stroke-width="4" fill="none"/>
+</svg>
